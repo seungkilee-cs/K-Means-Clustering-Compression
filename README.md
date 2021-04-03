@@ -1,2 +1,2 @@
-# K-Means-Clustering-Compression
-My implementation of Compression by K Means Clustering
+# K-Means-Image-Compression
+My implementation of Image Compression by K Means Clustering
